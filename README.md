@@ -5,7 +5,7 @@ Hola, déjame introducirte a mi perfil
 
 <ul>
   <li>👨‍🎓 Soy <b>estudiante de Ingeniería en Informática</b> y <b>dev full-stack en formación</b></li>
-  <li>📍 Basado en <b>Santiago, Chile</b></li>
+  <li>📍 En <b>Santiago, Chile</b></li>
   <li>🌱 Aprendiendo y practicando <b>JavaScript/TypeScript, React, Node.js, SQL (PostgreSQL)</b> y <b>Python</b></li>
   <li>💬 Pregúntame sobre <b>Front-end (React, Vite, Tailwind), Back-end (APIs, SQL), automatización y BI</b></li>
   <li>📮 Contacto directo: <b>gonzalo.yanez2311@gmail.com</b></li>
